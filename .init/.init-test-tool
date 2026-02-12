@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/biketrack-pro-319588-319597/gps_tracking_backend"
+}
